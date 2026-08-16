@@ -1,8 +1,8 @@
-yg4.ygkkk.dpdns.org:443#优选域名-7.01-8of8-j338
-leyun.cloud:443#优选域名-6.01-8of8-j841
-www.wto.org:443#优选域名-2.06-8of8-j356
-selfridges.com:8443#优选域名-1.53-8of8-j582
-13.230.41.144:443#反代JP-0.71-8of8-j991
-cf-cname.xingpingcn.top:443#优选域名-1.93-8of8-j824
-www.gov.ua:443#优选域名-1.45-8of8-j788
-fbi.gov:8443#优选域名-1.3-8of8-j1086
+yg4.ygkkk.dpdns.org:443#优选域名-6.29-8of8-j202
+cf.3666888.xyz:443#优选域名-9.86-8of8-j579
+leyun.cloud:443#优选域名-6.24-8of8-j300
+eteaf.cf.3666888.xyz:443#优选域名-10.79-8of8-j812
+selfridges.com:8443#优选域名-5.86-8of8-j304
+www.wto.org:443#优选域名-5.02-8of8-j428
+fbi.gov:8443#优选域名-1.94-8of8-j114
+cf-cname.xingpingcn.top:443#优选域名-5.51-8of8-j1514
